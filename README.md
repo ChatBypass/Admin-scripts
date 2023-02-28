@@ -1,2 +1,2 @@
 # Admin-scripts
-lua only
+This is actually client bro
